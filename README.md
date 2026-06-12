@@ -1,12 +1,12 @@
 # Voisace AI Voice Enhancement Demo
 
-![Voisace Demo](YouTube image Voiceprint Extraction.png)
+![Voisace Demo](Cover.png)
 
 ---
 
 ## Video Demonstration
 
-[![Watch on YouTube](YouTube image Voiceprint Extraction.png)](https://youtu.be/mqVJJxGt6Mg)
+[![Watch on YouTube](Cover.png)](https://youtu.be/mqVJJxGt6Mg)
 
 ▶ Watch Full Demo:
 https://youtu.be/mqVJJxGt6Mg
