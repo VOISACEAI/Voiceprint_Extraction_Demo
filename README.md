@@ -1,39 +1,54 @@
-# Voisace AI Voice Enhancement Demo
+# Voisace AI Voiceprint Extraction Demo
 
-![Voisace Demo](Cover.png)
+[![Voisace AI Voiceprint Extraction Demo](GitHub_Cover01.png)](https://youtu.be/tPq5HyrJ8kA)
 
 ---
 
 ## Video Demonstration
 
-[![Watch on YouTube](Cover.png)](https://youtu.be/mqVJJxGt6Mg)
-
-▶ Watch Full Demo:
-https://youtu.be/mqVJJxGt6Mg
+https://youtu.be/tPq5HyrJ8kA
 
 ---
 
-## Overview
+## Description
 
-This demonstration showcases Voisace AI acoustic processing technology for real-time speech enhancement and voice clarity improvement.
+This repository presents a demonstration of Voisace AI Voiceprint Extraction technology.
 
-### Key Features
+The system extracts compact and discriminative speaker embeddings from speech signals for speaker recognition, speaker verification, and voice intelligence applications. It is designed to operate reliably in real-world acoustic environments and can be deployed on edge AI hardware platforms.
 
-- AI Noise Reduction
-- Voice Enhancement
-- Speech Intelligibility Improvement
-- Real-Time Processing
-- Acoustic AI Technology
+The demonstration video showcases the voiceprint extraction process and the resulting speaker representation capabilities.
+
+---
+
+## Key Features
+
+* Real-Time Voiceprint Extraction
+* Speaker Embedding Generation
+* Speaker Recognition
+* Speaker Verification
+* Noise-Robust Processing
+* Edge AI Deployment Support
+* Low-Latency Inference
 
 ---
 
 ## Applications
 
-- Conference Systems
-- Smart Devices
-- Voice Assistants
-- Broadcasting
-- Communication Systems
+* Smart Conference Systems
+* Voice Authentication
+* Access Control Systems
+* Voice Assistants
+* Call Center Analytics
+* Audio Intelligence Platforms
+* Security and Monitoring Systems
+
+---
+
+## Technology
+
+Voisace Acoustic AI combines advanced speech processing and deep learning technologies to generate robust speaker embeddings under challenging acoustic conditions.
+
+The solution is optimized for embedded and edge computing platforms where computational efficiency and real-time performance are required.
 
 ---
 
@@ -46,3 +61,15 @@ https://www.voisace.com
 ## YouTube Channel
 
 https://www.youtube.com/@VoisaceAcoustic
+
+---
+
+## Contact
+
+For business inquiries and technical cooperation:
+
+https://www.voisace.com
+
+---
+
+Copyright © Voisace. All Rights Reserved.
