@@ -1,56 +1,48 @@
-<div align="center">
+# Voisace AI Voice Enhancement Demo
 
-# Voiceprint Extraction Demo
+![Voisace Demo](cover_demo03.png)
 
-<img src="cover.png" alt="Voiceprint Extraction Cover" width="900"/>
+---
 
-Real-time Speaker Voiceprint Extraction powered by AI
+## Video Demonstration
 
-</div>
+[![Watch on YouTube](YouTube image Voiceprint Extraction.png)](https://youtu.be/mqVJJxGt6Mg)
+
+▶ Watch Full Demo:
+https://youtu.be/mqVJJxGt6Mg
 
 ---
 
 ## Overview
 
-This project demonstrates a production-style Voiceprint Extraction pipeline that converts speech audio into compact and discriminative speaker embeddings (voiceprints).
+This demonstration showcases Voisace AI acoustic processing technology for real-time speech enhancement and voice clarity improvement.
 
-It is designed for speaker recognition, verification, and audio intelligence applications.
+### Key Features
 
----
-
-## Live Demo
-
-Click to watch the full demonstration:
-
-<div align="center">
-
-[![Watch Demo](https://img.youtube.com/vi/9pWyGtdaQ3Q/maxresdefault.jpg)](https://youtu.be/9pWyGtdaQ3Q)
-
-</div>
+- AI Noise Reduction
+- Voice Enhancement
+- Speech Intelligibility Improvement
+- Real-Time Processing
+- Acoustic AI Technology
 
 ---
 
-## What is Voiceprint Extraction?
+## Applications
 
-Voiceprint extraction transforms human speech into a unique biometric representation.
-
-Each voice is encoded into a fixed-length embedding that captures:
-
-- Speaker identity characteristics  
-- Vocal timbre and tone  
-- Speech patterns  
-- Acoustic signatures  
+- Conference Systems
+- Smart Devices
+- Voice Assistants
+- Broadcasting
+- Communication Systems
 
 ---
 
-## Key Features
+## Website
 
-- High-accuracy speaker embedding extraction  
-- Real-time inference pipeline  
-- Discriminative voice feature representation  
-- Compatible with downstream AI systems  
-- Modular architecture for integration  
+https://www.voisace.com
 
 ---
 
-## System Pipeline
+## YouTube Channel
+
+https://www.youtube.com/@VoisaceAcoustic
