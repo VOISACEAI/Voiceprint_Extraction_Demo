@@ -1,6 +1,6 @@
 # Voisace AI Voice Enhancement Demo
 
-![Voisace Demo](cover_demo03.png)
+![Voisace Demo](YouTube image Voiceprint Extraction.png)
 
 ---
 
