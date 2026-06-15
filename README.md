@@ -1,75 +1,81 @@
 # Voisace AI Voiceprint Extraction Demo
 
-[![Voisace AI Voiceprint Extraction Demo](GitHub_Cover01.png)](https://youtu.be/tPq5HyrJ8kA)
+![Voiceprint Extraction Demo](GitHub_Cover01.png)
+
+AI Voiceprint Extraction Technology Demonstration by Voisace.
 
 ---
 
-## Video Demonstration
+## Demo Video
 
-https://youtu.be/tPq5HyrJ8kA
+Watch the demonstration on YouTube Shorts:
+
+https://youtube.com/shorts/ouCN2n3dlX4
 
 ---
 
-## Description
+## Overview
 
-This repository presents a demonstration of Voisace AI Voiceprint Extraction technology.
+Voiceprint extraction is the process of identifying and isolating the unique acoustic characteristics of a speaker from speech signals.
 
-The system extracts compact and discriminative speaker embeddings from speech signals for speaker recognition, speaker verification, and voice intelligence applications. It is designed to operate reliably in real-world acoustic environments and can be deployed on edge AI hardware platforms.
-
-The demonstration video showcases the voiceprint extraction process and the resulting speaker representation capabilities.
+By analyzing speaker-specific vocal features, the system generates a compact voiceprint representation that can be used for speaker recognition, speaker verification, voice authentication, and intelligent speech applications.
 
 ---
 
 ## Key Features
 
-* Real-Time Voiceprint Extraction
-* Speaker Embedding Generation
-* Speaker Recognition
-* Speaker Verification
-* Noise-Robust Processing
-* Edge AI Deployment Support
-* Low-Latency Inference
+- AI-powered Voiceprint Extraction
+- Speaker Identity Analysis
+- Speaker Recognition
+- Speaker Verification
+- Voice Biometrics
+- Real-Time Processing Capability
+- Robust Speaker Feature Representation
 
 ---
 
 ## Applications
 
-* Smart Conference Systems
-* Voice Authentication
-* Access Control Systems
-* Voice Assistants
-* Call Center Analytics
-* Audio Intelligence Platforms
-* Security and Monitoring Systems
+- Speaker Recognition
+- Speaker Verification
+- Voice Authentication
+- Voice Biometrics
+- Smart Conference Systems
+- Contact Centers
+- Speech Analytics
+- Intelligent Audio Platforms
+- AI Assistants
 
 ---
 
-## Technology
+## Technology Highlights
 
-Voisace Acoustic AI combines advanced speech processing and deep learning technologies to generate robust speaker embeddings under challenging acoustic conditions.
+This demonstration showcases Voisace's advanced AI audio processing capabilities for extracting unique speaker identity information from speech signals.
 
-The solution is optimized for embedded and edge computing platforms where computational efficiency and real-time performance are required.
+The extracted voiceprint can be utilized in various voice intelligence systems where reliable speaker identification and verification are required.
 
 ---
 
-## Website
+## About Voisace
+
+Voisace develops advanced AI-powered audio technologies for conference systems, enterprise communication, speech enhancement, and intelligent audio processing.
+
+### Website
 
 https://www.voisace.com
 
----
+### GitHub
 
-## YouTube Channel
+https://github.com/VOISACEAI
 
-https://www.youtube.com/@VoisaceAcoustic
+### LinkedIn
 
----
+https://www.linkedin.com/company/voisace
 
-## Contact
+### Contact
 
-For business inquiries and technical cooperation:
-
-https://www.voisace.com
+sales@voisace.com
 
 ---
 
-Copyright © Voisace. All Rights Reserved.
+© Voisace. All Rights Reserved.
