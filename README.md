@@ -79,3 +79,7 @@ sales@voisace.com
 ---
 
 © Voisace. All Rights Reserved.
+
+## VAMP Demo Archive
+
+- 2026-07-04: [Voisace AI Voiceprint Extraction Demo 02](https://github.com/VOISACEAI/Voiceprint_Extraction_Demo/blob/main/demos/VLIB-3A8F9B122A-Voisace_AI_Voiceprint_Extraction_Demo_02.md) - `VLIB-3A8F9B122A`
