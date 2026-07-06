@@ -4,7 +4,7 @@ This demo shows Voisace voiceprint extraction identifying speaker characteristic
 
 ## Quick Links
 
-[Voisace](https://www.voisace.com)
+[Watch on YouTube](https://www.youtube.com/watch?v=jnXR4gAEjt4) | [Voisace](https://www.voisace.com)
 
 ## What To Look For
 
@@ -22,6 +22,10 @@ This demo shows Voisace voiceprint extraction identifying speaker characteristic
 | Orientation | Unknown |
 | Source file | Voisace_AI_Voiceprint_Extraction_Demo_02.mp4.mp4 |
 | Asset ID | VLIB-3A8F9B122A |
+
+## Video
+
+The public demo is available here: https://www.youtube.com/watch?v=jnXR4gAEjt4
 
 ## Publishing
 
