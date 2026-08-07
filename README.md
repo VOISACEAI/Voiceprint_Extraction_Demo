@@ -1,7 +1,10 @@
 # Voisace AI Voiceprint Extraction Demo
 
-![Voiceprint Extraction Demo](GitHub_Cover01.png)
-
+<!-- VAMP_REPOSITORY_COVER_START -->
+<p align="center">
+  <img src="GitHub_Cover01.png" alt="Voisace AI Voiceprint Extraction Demo" width="680">
+</p>
+<!-- VAMP_REPOSITORY_COVER_END -->
 AI Voiceprint Extraction Technology Demonstration by Voisace.
 
 ---
